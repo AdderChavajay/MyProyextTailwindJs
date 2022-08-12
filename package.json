@@ -1,0 +1,17 @@
+{
+  "name": "practicatailwindjs",
+  "version": "1.0.0",
+  "description": "wearing tailwind CLI and js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chavajay@ (-_-)",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
